@@ -1,0 +1,1 @@
+con_str = "mongodb+srv://fersstore:Fersstore101@cluster0.ttfvjxw.mongodb.net/?retryWrites=true&w=majority"
